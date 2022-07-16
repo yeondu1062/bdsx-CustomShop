@@ -1,3 +1,2 @@
 # Custom-shop
-Custom shop plugins available in BDSX. 
-ㄹ
+Custom shop plugins available in BDSX.   
