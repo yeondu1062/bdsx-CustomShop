@@ -11,3 +11,6 @@ EX) tag @e[type=villager] add "shop[minecraft:apple,minecraft:lime_dye,minecraft
 주민한테 첫번째 슬롯에 가격이 1인 사과, 두번째 슬롯에 가격이 3인 연두색 염료, 세번쨰 슬롯에 가격이 2인 달걀 상점을 추가 (돈 스코어는 s)    
      
 복잡해 보이지만 이해하면 쉽습니다     
+     
+### 플러그인     
+해당 플러그인은 mdisprgm님의 hsmenu를 사용하고 있습니다. https://github.com/mdisprgm/bdsx-hsmenu
