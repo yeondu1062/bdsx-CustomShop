@@ -34,7 +34,7 @@ events.entityHurt.on((event_data) => {
                         ]
                     });
                     if(shop_ui && score != undefined) {
-                        if(isNaN(shop_ui[0]) == false) {
+                        if(Number.isInteger(Number(shop[0])) && Number(shop_ui[0]) > 0) {
                             if(Number(shop_ui[0]) * Number(amount[slot]) <= score) {
                                 player.runCommand(`scoreboard players remove @s ${score_name} ${Number(shop_ui[0]) * Number(amount[slot])}`);
                                 player.runCommand(`tellraw @s {"rawtext":[{"text":"§l§6[상점] §r§7아이템 §f${sale[slot]} §7을(를) §f${shop_ui[0]} §7개 구매하였습니다."}]}`);
