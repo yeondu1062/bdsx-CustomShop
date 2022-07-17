@@ -12,7 +12,9 @@ EX) tag @e[type=villager] add "shop[minecraft:apple,minecraft:lime_dye,minecraft
      
 ![p](test.png)
      
-복잡해 보이지만 이해하면 쉽습니다     
+복잡해 보이지만 이해하면 쉽습니다.     
      
 ### 플러그인     
-해당 플러그인은 mdisprgm님의 hsmenu를 사용하고 있습니다. https://github.com/mdisprgm/bdsx-hsmenu
+해당 플러그인은 mdisprgm님의 hsmenu를 사용하고 있습니다. https://github.com/mdisprgm/bdsx-hsmenu     
+### 라이센스     
+해당 플러그인은 MIT 라이센스를 사용하고 있습니다.
