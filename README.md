@@ -26,12 +26,6 @@ BDSX 커스텀 상점 플러그인
 ![p](test.png)
 
 
-     
-
-         
-     
-### 오픈소스 출처 
-본 플러그인은 mdisprgm님의 [`hsmenu`](https://github.com/mdisprgm/bdsx-hsmenu)를 사용했습니다. 
 
 
 ### 라이센스     
