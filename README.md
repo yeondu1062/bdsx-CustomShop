@@ -1,3 +1,4 @@
+# 수정중입니다.
 # Custom shop Plugin
 
 Custom shop plugins available in BDSX.   
