@@ -1,4 +1,4 @@
-# 수정중입니다.
+# 현재 수정중인 플러그인입니다.
 # Custom shop Plugin
 
 Custom shop plugins available in BDSX.   
