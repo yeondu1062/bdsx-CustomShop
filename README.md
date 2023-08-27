@@ -19,7 +19,7 @@ Custom shop plugins available in BDSX.
 
 
 ## Custom | 커스텀 ✨
-[Setting]() 파일을 수정하여 플러그인을 커스텀 할 수 있습니다.
+[Setting](./setting.json) 파일을 수정하여 플러그인을 커스텀 할 수 있습니다.
 ```javascript
 {
     "message": {
@@ -31,7 +31,7 @@ Custom shop plugins available in BDSX.
 ```
 
 ## License | 라이센스 ⚖️
-해당 플러그인은 [MIT]() 라이센스를 사용중입니다.
+해당 플러그인은 [MIT](./LICENSE) 라이센스를 사용중입니다.
 
 ## Lib | 오픈소스 📚
 해당 플러그인은 [Hsmenu](https://github.com/mdisprgm/bdsx-hsmenu) 를 포함하고 있습니다.
