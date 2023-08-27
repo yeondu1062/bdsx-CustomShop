@@ -1,0 +1,13 @@
+{
+  "name": "@bdsx/customshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "bdsxPlugin": true,
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "prepare": "tsc || exit 0"
+  }
+}

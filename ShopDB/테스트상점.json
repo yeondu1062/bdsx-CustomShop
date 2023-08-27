@@ -1,0 +1,26 @@
+{
+  "title": "테스트상점",
+  "size": 1,
+  "economy": "money",
+  "container": {
+    "20": {
+      "id": "minecraft:light_blue_glazed_terracotta",
+      "name": "§r§lA",
+      "lore": "§r§9It is the lore of A ",
+      "salePrice": 10
+    },
+    "22": {
+      "id": "minecraft:orange_glazed_terracotta",
+      "name": "§r§lB",
+      "lore": "§r§9It is the lore of B ",
+      "buyPrice": 20
+    },
+    "24": {
+      "id": "minecraft:gray_glazed_terracotta",
+      "name": "§r§lC",
+      "lore": "§r§9It is the lore of C ",
+      "salePrice": 30,
+      "buyPrice": 30
+    }
+  }
+}

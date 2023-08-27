@@ -1,0 +1,28 @@
+{
+    "dbPath": "../plugins/bdsx-CustomShop-main/ShopDB",
+    "containerUi": {
+        "title": "§l[{shopName}] §r§8- 아이템을 선택해주세요.",
+        "itemMenuLore": "§r§8〓〓〓〓〓〓〓〓〓〓〓\n§r§l§f구매가격: §r§o{salePrice}\n§r§l§f판매가격: §r§o{buyPrice}\n§r§8〓〓〓〓〓〓〓〓〓〓〓"
+    },
+    "selectUi": {
+        "title": "§l《 {shopName} 》",
+        "content": "§r§l§c■ §r아이템 §l{name}§r을(를) 선택하셨습니다.\n§l판매§r/§l구매§r중 선택해주세요.\n \n§r§l§c■ §f구매가: §r§o{salePrice}\n§r§l§c■ §f판매가: §r§o{buyPrice}\n ",
+        "button": [
+            "§l구매", "§l판매"
+        ]
+    },
+    "amountUi": {
+        "title": "§l《 {shopName} 》",
+        "saleContent": "§r§l§c■ §r아이템 §l{name}§r을(를) §l구매§r합니다.\n \n§r§l§c■ §r아래에 §l구매§r할 수량을 입력하여 주세요.\n \n§r§l§c■ §f보유_자금: §r§o{funds}\n§r§l§c■ §f개당_가격: §r§o{price}\n ",
+        "buyContent": "§r§l§c■ §r아이템 §l{name}§r을(를) §l판매§r합니다.\n \n§r§l§c■ §r아래에 §l판매§r할 수량을 입력하여 주세요.\n \n§r§l§c■ §f보유_아이템개수: §r§o{amount}\n§r§l§c■ §f개당_가격: §r§o{price}\n ",
+        "placeholder": "여기를 눌러 수량을 입력해주세요."
+    },
+    "message": {
+        "saleOrBuyImpossible": "§l§6[상점] §r구매 §7혹은 §r판매§7가 불가능한 아이템입니다.",
+        "inputInvalidNumber": "§l§6[상점] §r§7개수를 §f자연수§7로 입력해주세요.",
+        "economyLack": "§l§6[상점] §r§7보유 §r금액§7이 부족합니다.",
+        "itemLack": "§l§6[상점] §r§7보유중인 §r아이템§7이 부족합니다.",
+        "saleSuccess": "§l§6[상점] §r§7아이템 §f{name}§7을(를) §f{amount}§7개 구매하였습니다.",
+        "buySuccess": "§l§6[상점] §r§7아이템 §f{name}§7을(를) §f{amount}§7개 판매하였습니다."
+    }
+}
